@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Plans>
+  <Plan id="1">
+    <Employer id="156200" >
+      <ProvidentFund>
+        <basics>800</basics>
+        <Contribution>
+          <Amount>1500</Amount>
+        </Contribution>
+      </ProvidentFund>
+    </Employer>
+    <Employer id="156201" >
+      <ProvidentFund>
+        <basics>1000</basics>
+        <Contribution>
+          <Amount>2500</Amount>
+        </Contribution>
+      </ProvidentFund>
+    </Employer>
+  </Plan>
+  <Plan id="2">
+    <Employer id="136200" >
+      <ProvidentFund>
+        <basics>300</basics>
+        <Contribution>
+          <Amount>700</Amount>
+        </Contribution>
+      </ProvidentFund>
+    </Employer>
+    <Employer id="146201" >
+      <ProvidentFund>
+        <basics>900</basics>
+        <Contribution>
+          <Amount>3300</Amount>
+        </Contribution>
+      </ProvidentFund>
+    </Employer>
+  </Plan>
+</Plans>

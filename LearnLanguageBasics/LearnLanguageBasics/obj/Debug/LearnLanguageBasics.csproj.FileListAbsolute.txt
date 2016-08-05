@@ -1,0 +1,6 @@
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\bin\Debug\LearnLanguageBasics.exe.config
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\bin\Debug\LearnLanguageBasics.exe
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\bin\Debug\LearnLanguageBasics.pdb
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\obj\Debug\LearnLanguageBasics.csprojResolveAssemblyReference.cache
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\obj\Debug\LearnLanguageBasics.exe
+D:\anand\Learn\LearnLanguageBasics\LearnLanguageBasics\obj\Debug\LearnLanguageBasics.pdb
